@@ -1,19 +1,19 @@
-##Expanding Cards
+## Expanding Cards
 Expanding Cards is a simple project that demonstrates an interactive UI feature where clicking on a card expands it to reveal more content. This project utilizes HTML, CSS, and JavaScript to achieve this effect.
 
-#Demo
+# Demo
 You can view a live demo of the project here.
 https://anilsjr.github.io/expanding-cards
 
-#Summary
+# Summary
 Expanding Cards provides a visually appealing way to present content in a card layout. Each card expands when clicked, showcasing the content in an engaging manner.
 
-#Technologies Used
+# Technologies Used
 HTML
 CSS
 JavaScript
 
-#How It Works
+# How It Works
  The application consists of a set of cards (panels) displayed in a container. When a panel is clicked, it expands to show more content while the other panels contract. This is achieved using CSS transitions and JavaScript event listeners.
 
 1. HTML: Structures the layout with a container holding multiple panels.
